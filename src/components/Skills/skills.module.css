@@ -1,0 +1,49 @@
+.container {
+  max-width: 90vw;
+  margin: auto;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  letter-spacing: 2px;
+  margin-top: 80px;
+  color: var(--title);
+}
+
+.skills {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.languages h2 {
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+}
+
+.languages {
+  margin: 30px 0;
+  background: var(--navbar);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.items h4 {
+  border: 2px solid var(--title);
+  padding: 7px 10px;
+  border-radius: 3px;
+}
+
+@media (max-width: 900px) {
+  .items > * {
+    margin: 10px;
+  }
+}
