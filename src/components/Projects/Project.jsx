@@ -50,7 +50,7 @@ in their lives.
                     </h4>
 
                     <a href="https://github.com/bhargav-jaldu/memories-app" target="_blank"><button className={styles.button}>Code</button></a>
-                    <a href="https://php-memories.000webhostapp.com/" target="_blank"><button className={styles.button}>Code</button></a>
+                    <a href="https://php-memories.000webhostapp.com/" target="_blank"><button className={styles.button}>Live</button></a>
                 </div>
         </div>
 
@@ -68,7 +68,7 @@ in their lives.
                     </h4>
 
                     <a href="https://github.com/bhargav-jaldu/movie-app" target="_blank"><button className={styles.button}>Code</button></a>
-                    <a href="https://bhargav-jaldu.github.io/movie-app/" target="_blank"><button className={styles.button}>Code</button></a>
+                    <a href="https://bhargav-jaldu.github.io/movie-app/" target="_blank"><button className={styles.button}>Live</button></a>
                 </div>
         </div>
     </div>
