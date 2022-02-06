@@ -27,6 +27,9 @@ const Project = () => {
                     <h4><i class="fas fa-chevron-right"></i>&nbsp;
                     Implemented Routing Functionality, Used Socket.io to enable real-time communication.
                     </h4>
+                    <h4><i class="fas fa-chevron-right"></i>&nbsp;
+                    Tech: ReactJs, NodeJs, ExpressJs, MySQL
+                    </h4>
 
                     <a href="https://github.com/bhargav-jaldu/weShare" target="_blank"><button className={styles.button}>Code</button></a>
                 </div>
@@ -48,6 +51,9 @@ in their lives.
                     <h4><i class="fas fa-chevron-right"></i>&nbsp;
                     Used MySQL Database to Store Post Details.
                     </h4>
+                    <h4><i class="fas fa-chevron-right"></i>&nbsp;
+                    Tech: Javascirpt, Php, MySQL
+                    </h4>
 
                     <a href="https://github.com/bhargav-jaldu/memories-app" target="_blank"><button className={styles.button}>Code</button></a>
                     <a href="https://php-memories.000webhostapp.com/" target="_blank"><button className={styles.button}>Live</button></a>
@@ -66,6 +72,10 @@ in their lives.
                     <h4><i class="fas fa-chevron-right"></i>&nbsp;
                     Functionality: Search and Play a video.
                     </h4>
+                    <h4><i class="fas fa-chevron-right"></i>&nbsp;
+                    Tech: HTML, CSS, JavaScript
+                    </h4>
+                    
 
                     <a href="https://github.com/bhargav-jaldu/movie-app" target="_blank"><button className={styles.button}>Code</button></a>
                     <a href="https://bhargav-jaldu.github.io/movie-app/" target="_blank"><button className={styles.button}>Live</button></a>
