@@ -19,7 +19,8 @@ const Project = () => {
             <div className={styles.content}>
                     <h2>weShare</h2>
                     <h4><i class="fas fa-chevron-right"></i>&nbsp;
-                    Build a Social Media Application, Where User can Post, Like, Comment and Chat with other People .
+                    Build a Question Answer Platform, Where User can Post, Like, Comment, Assignment Submissions, Chat and even Video Call
+with other People .
                     </h4>
                     <h4><i class="fas fa-chevron-right"></i>&nbsp;
                     Implemented CRUD Operations on a Post.
