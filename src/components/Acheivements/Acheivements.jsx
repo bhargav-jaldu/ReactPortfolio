@@ -8,13 +8,18 @@ const Acheivements = () => {
     </div>
 
     <div className={styles.acheivements}>
-        <div className={styles.flex}>
+      <div className={styles.flex}>
             <i class="fas fa-chevron-right"></i>
-            &nbsp;<h3>Qualified in Jee Mains With a Rank of 11k Under EWS Category.</h3>
+            &nbsp;<h3>Ranked 1st in CodeBid Hackathon Which was conducted by Code-Chef Club.</h3>
         </div>
+        
         <div className={styles.flex}>
             <i class="fas fa-chevron-right"></i>
             &nbsp;<h3>Solved 250+ problems on Leetcode</h3>
+        </div>
+  <div className={styles.flex}>
+            <i class="fas fa-chevron-right"></i>
+            &nbsp;<h3>Qualified in Jee Mains With a Percentaile of 82 under EWS category.</h3>
         </div>
     </div>
   </div>;
