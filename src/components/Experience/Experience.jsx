@@ -51,8 +51,6 @@ const Experience = () => {
       </div>
 
       <p><i class="fas fa-angle-right"></i>&nbsp;Developing a VIT-AP's Alumni Official Website in React JS and Firebase.</p>
-
-      <a href="https://acmvitap.in/" target="_blank"><button className={styles.button}>Check it Out</button></a>
     </div>
     </div>
   </div>;
