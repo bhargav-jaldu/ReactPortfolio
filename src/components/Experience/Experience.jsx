@@ -37,6 +37,24 @@ const Experience = () => {
       <a href="https://acmvitap.in/" target="_blank"><button className={styles.button}>Check it Out</button></a>
     </div>
     </div>
+  
+{/* 2 */}
+  <div className={styles.container}>
+    <div className={styles.one} data-aos="fade-left">
+      <div className={styles.flex}>
+      <h1>VIT-AP Alumni </h1>
+      <h5>Dec 2021 - Present</h5>
+      </div>
+      <div className={styles.flex}>
+      <h4>ReactJs Developer</h4>
+      <h5>Amaravathi, India</h5>
+      </div>
+
+      <p><i class="fas fa-angle-right"></i>&nbsp;Developing a VIT-AP's Alumni Official Website in React JS and Firebase.</p>
+
+      <a href="https://acmvitap.in/" target="_blank"><button className={styles.button}>Check it Out</button></a>
+    </div>
+    </div>
   </div>;
 };
 
