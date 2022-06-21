@@ -32,7 +32,7 @@ with other People .
                     Tech: ReactJs, NodeJs, ExpressJs, MySQL
                     </h4>
 
-                    <a href="https://github.com/bhargav-jaldu/weShare" target="_blank"><button className={styles.button}>Code</button></a>
+                    <a href="https://github.com/bhargav-jaldu/V-HELP" target="_blank"><button className={styles.button}>Code</button></a>
                 </div>
         </div>
 
