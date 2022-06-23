@@ -25,7 +25,7 @@ const Header = () => {
   <span className={styles.circle} aria-hidden="true">
   <span className={`${styles.icon} ${styles.arrow}`}></span>
   </span>
-  <a href="https://drive.google.com/file/d/1R3UKV4zwqPymV4zdPdHGEu1GrY5Ddp1p/view?usp=sharing" target="_blank"><span className={styles.buttonText}>RESUME</span></a>
+  <a href="https://drive.google.com/file/d/1rd_XTbZ1APnj2IQG06ZOSWxt3zUJwEs5/view" target="_blank"><span className={styles.buttonText}>RESUME</span></a>
 </button>
 </div>
 
