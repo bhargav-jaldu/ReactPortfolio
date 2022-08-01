@@ -29,7 +29,7 @@ const Education = () => {
                 <h3>Computer Science & Engineering</h3>
                 <h4>Vellore Institute of Technology, Amaravathi</h4>
                 <p>Passing Year: 2023</p>
-                <p>CGPA: 8.48 (till 4th Sem)</p>
+                <p>CGPA: 8.53 (till 6th Sem)</p>
             </div>
         </div>
 
